@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\XmlAnalyze\bin\Debug\net6.0\XmlAnalyze.exe
+C:\Users\pc\source\repos\XmlAnalyze\bin\Debug\net6.0\XmlAnalyze.deps.json
+C:\Users\pc\source\repos\XmlAnalyze\bin\Debug\net6.0\XmlAnalyze.runtimeconfig.json
+C:\Users\pc\source\repos\XmlAnalyze\bin\Debug\net6.0\XmlAnalyze.dll
+C:\Users\pc\source\repos\XmlAnalyze\bin\Debug\net6.0\XmlAnalyze.pdb
+C:\Users\pc\source\repos\XmlAnalyze\obj\Debug\net6.0\XmlAnalyze.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\XmlAnalyze\obj\Debug\net6.0\XmlAnalyze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\XmlAnalyze\obj\Debug\net6.0\XmlAnalyze.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\XmlAnalyze\obj\Debug\net6.0\XmlAnalyze.AssemblyInfo.cs
+C:\Users\pc\source\repos\XmlAnalyze\obj\Debug\net6.0\XmlAnalyze.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\XmlAnalyze\obj\Debug\net6.0\XmlAnalyze.dll
+C:\Users\pc\source\repos\XmlAnalyze\obj\Debug\net6.0\refint\XmlAnalyze.dll
+C:\Users\pc\source\repos\XmlAnalyze\obj\Debug\net6.0\XmlAnalyze.pdb
+C:\Users\pc\source\repos\XmlAnalyze\obj\Debug\net6.0\XmlAnalyze.genruntimeconfig.cache
+C:\Users\pc\source\repos\XmlAnalyze\obj\Debug\net6.0\ref\XmlAnalyze.dll

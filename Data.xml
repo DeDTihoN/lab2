@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xsl-stylesheet type="text/xsl" href="XSLT_Transform.xslt" media="application/xhtml+xml" ?>
+<Dorm>
+  <Student>
+    <Name>Петро</Name>
+    <Faculty>Математичний</Faculty>
+    <Adress>пл. І. Франкa, 38</Adress>
+    <Cathedra>Військова</Cathedra>
+    <CourseYear>3</CourseYear>
+  </Student>
+  <Student>
+    <Name>Андрій</Name>
+    <Faculty>Медичний</Faculty>
+    <Adress>просп. Копиленка, 18</Adress>
+    <Cathedra>Військова</Cathedra>
+    <CourseYear>4</CourseYear>
+  </Student>
+  <Student>
+    <Name>Юлія</Name>
+    <Faculty>Юридичний</Faculty>
+    <Adress>вул. П. Орлика, 69</Adress>
+    <Cathedra>Rримінального права та процесу</Cathedra>
+    <CourseYear>3</CourseYear>
+  </Student>
+  <Student>
+    <Name>Дмитро</Name>
+    <Faculty>Історичний</Faculty>
+    <Adress>вул. Лук’янівська, 38</Adress>
+    <Cathedra>Відсутня</Cathedra>
+    <CourseYear>1</CourseYear>
+  </Student>
+  <Student>
+    <Name>Катерина</Name>
+    <Faculty>Комп'ютерні науки</Faculty>
+    <Adress>просп. Арсенальна, 37</Adress>
+    <Cathedra>Моделювання складних систем</Cathedra>
+    <CourseYear>2</CourseYear>
+  </Student>
+</Dorm>
